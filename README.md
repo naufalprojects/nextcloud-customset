@@ -1,4 +1,4 @@
 # nextcloud-customset
 Custom settings of Nextcloud Docker
 
-Base are still from original (Nextcloud and PSQL)
+Base are still from original (Nextcloud:latest and PSQL:latest)
